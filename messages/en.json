@@ -1,0 +1,35 @@
+{
+  "home": {
+    "badge": "Premium Iranian Exports",
+    "title": { "part1": "Discover the Finest", "part2": "Products from Iran" },
+    "subtitle": "Explore carefully selected Iranian saffron, nuts, dried fruits, dates, and traditional sweets. Connect with us for retail orders, wholesale supply, and business inquiries.",
+    "cta": { "explore": "Explore Products", "whatsapp": "Order via WhatsApp" },
+    "stats": { "categories": "Product Categories", "markets": "Target Markets", "origin": "Iranian Origin" },
+    "scroll": "Scroll"
+  },
+  "nav": {
+    "home": "Home", "products": "Products", "about": "About Us",
+    "wholesale": "Wholesale", "markets": "Markets", "contact": "Contact"
+  },
+  "cart": {
+    "title": "Inquiry Cart", "empty": "Your inquiry cart is empty",
+    "send": "Send via WhatsApp", "retail": "Retail", "wholesale": "Wholesale"
+  },
+  "about": {
+    "title": "Iranian Quality, Selected for Global Markets",
+    "desc": "Iran Select focuses on connecting international customers with selected products from Iran. Our product range includes saffron, nuts, dried fruits, dates, and traditional Iranian sweets. We aim to make product discovery, sourcing, and business communication simple and reliable."
+  },
+  "why": {
+    "title": "Why Choose Iran Select",
+    "items": {
+      "1": { "t": "Carefully Selected Products", "d": "Every product is handpicked for quality" },
+      "2": { "t": "Iranian Product Origin", "d": "Authentic products from Iran" },
+      "3": { "t": "Retail and Wholesale", "d": "Flexible options for all customers" },
+      "4": { "t": "Direct Communication", "d": "Connect directly via WhatsApp" }
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "tagline": "Premium Iranian Products for Global Markets"
+  }
+}

@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-feature-settings: "cv11", "ss01";
+  font-variation-settings: "opsz" 32;
+}
+
+::selection { background: #B99A64; color: #F6F4EF; }
+
+/* RTL adjustments */
+[dir="rtl"] .flip-rtl { transform: scaleX(-1); }
